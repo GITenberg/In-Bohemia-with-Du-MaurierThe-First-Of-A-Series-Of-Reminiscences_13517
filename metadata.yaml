@@ -1,0 +1,31 @@
+_repo: In-Bohemia-with-Du-MaurierThe-First-Of-A-Series-Of-Reminiscences_13517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moscheles, Felix
+    birthdate: 1833
+    deathdate: 1917
+    gutenberg_agent_id: '5107'
+    url: http://www.gutenberg.org/2009/agents/5107
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Felix_Moscheles
+    - http://en.wikipedia.org/wiki/Felix_Moscheles
+description: ''
+gutenberg_issued: '2004-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moscheles, Felix, 1833-1917'
+- !lcsh 'Du Maurier, George, 1834-1896'
+- !lcc 'NC'
+- !lcsh 'Artists -- Correspondence, reminiscences, etc.'
+title: 'In Bohemia with Du Maurier: The First of a Series of Reminiscences'
+url: http://www.gutenberg.org/ebooks/13517
