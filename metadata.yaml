@@ -14,6 +14,8 @@ creator:
     - http://de.wikipedia.org/wiki/Felix_Moscheles
     - http://en.wikipedia.org/wiki/Felix_Moscheles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13517#In-Bohemia-with-Du-MaurierThe-First-Of-A-Series-Of-Reminiscences
 gutenberg_issued: '2004-09-24'
 gutenberg_type: Text
 identifiers:
